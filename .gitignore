@@ -42,7 +42,6 @@ data/
 # Generated outputs
 analysis_outputs/
 plots/
-*.png
 *.jpg
 *.jpeg
 *.pdf

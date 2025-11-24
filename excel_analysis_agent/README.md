@@ -9,7 +9,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-yellow)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 
-![](static/agent_ui.png)
+![](Excel_Analysis_Agent.png)
 
 [Features](#features) • [Architecture](#architecture) • [Quick Start](#quick-start) • [Usage Examples](#usage-examples) • [Documentation](#documentation)
 
